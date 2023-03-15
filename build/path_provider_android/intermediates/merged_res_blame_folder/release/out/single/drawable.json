@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

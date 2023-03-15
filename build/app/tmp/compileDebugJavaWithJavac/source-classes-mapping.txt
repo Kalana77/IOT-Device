@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/iot_app/MainActivity.java
+ com.example.iot_app.MainActivity
+com/example/iot_app/BuildConfig.java
+ com.example.iot_app.BuildConfig

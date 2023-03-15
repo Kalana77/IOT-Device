@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639062521394",
+    "firebase_url": "https://homeautomationsystem-231a0-default-rtdb.firebaseio.com",
+    "project_id": "homeautomationsystem-231a0",
+    "storage_bucket": "homeautomationsystem-231a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639062521394:android:c9174682b295120683ae2b",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639062521394-9sm965qi7dbtsge22q1eqs93pn2n1sli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SsDu6XvlUE1j7N4hFiZewCO49deO778"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639062521394-9sm965qi7dbtsge22q1eqs93pn2n1sli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

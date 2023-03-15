@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\IoT application\\build\\path_provider_android\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\KASUN\\.gradle\\caches\\transforms-3\\a518e4bdcd034f3b6138ff1144a1064e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]
